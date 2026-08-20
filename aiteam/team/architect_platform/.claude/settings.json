@@ -1,0 +1,31 @@
+{
+  "permissions": {
+    "additionalDirectories": [
+      "/opt/sourcecode/ell_core",
+      "/opt/sourcecode/aiteam"
+    ],
+    "allow": [
+      "Read(/opt/sourcecode/aiteam/Methodology/AI_M_MSF/AI_M_MSF.md)",
+      "Read(/opt/sourcecode/aiteam/Methodology/AI_M_MSF/**)",
+      "Read(/opt/sourcecode/aiteam/architect_platform/Soul.md)",
+      "Read(/opt/sourcecode/ell_core/aiteam/docs/**)",
+      "Read(/opt/sourcecode/ell_core/aiteam/tasks/**)",
+      "Edit(/opt/sourcecode/ell_core/aiteam/workspace/**)",
+      "Write(/opt/sourcecode/ell_core/aiteam/workspace/**)",
+      "Bash(mkdir:/opt/sourcecode/ell_core/aiteam/workspace/*)",
+      "Bash(ls:*)",
+      "Bash(find:*)",
+      "Bash(tree:*)",
+      "LS",
+      "Glob",
+      "Grep",
+      "Bash(git checkout:*)",
+      "Bash(git add:*)",
+      "Bash(git commit:*)",
+      "Bash(git push:*)",
+      "Bash(git merge:*)",
+      "Read(/opt/sourcecode/ipb10_docs/Doc/Arch/ipbStyleV10.md)",
+      "Read(/opt/sourcecode/ipb10_docs/Doc/Arch/MultitenancyV10.md)"
+    ]
+  }
+}

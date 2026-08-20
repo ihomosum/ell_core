@@ -1,0 +1,13 @@
+team:
+    "name": "IPB10"
+    standart_docs: "/opt/sourcecode/aiteam/Methodology/AI_M_MSF/AI_M_MSF.md, /opt/sourcecode/ipb10_docs/Doc/Arch/ipbStyleV10.md, /opt/sourcecode/ipb10_docs/Doc/Arch/MultitenancyV10.md"
+    roles:
+        "ArchitectProject": /opt/sourcecode/aiteam/architect/Soul.md
+        "architect_platform": /opt/sourcecode/aiteam/architect_platform/Soul.md
+        "BusinessAnalyst": /opt/sourcecode/aiteam/business_analyst/Soul.md
+        ".NET разработчик": /opt/sourcecode/aiteam/dotNet10_developer/Soul.md
+        "PythonDeveloper": /opt/sourcecode/aiteam/python_developer/Soul.md
+        "SwiftDeveloper": /opt/sourcecode/aiteam/swift_developer/Soul.md
+        "DevOps": /opt/sourcecode/aiteam/devops/Soul.md
+        "PPM": /opt/sourcecode/aiteam/pmm/Soul.md
+        "ReactJSDeveloper": /opt/sourcecode/aiteam/reactjs_developer/Soul.md
